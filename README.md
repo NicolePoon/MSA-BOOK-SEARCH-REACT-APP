@@ -28,8 +28,8 @@ Please check the following screenshot.
 <br/>
 <br/>
 
-* I also add a `build badge` on the Readme file to make my build information available to everyone.
-Please refer to the SVG image on top of the file.
+* I also add a `build badge` on the Readme file to make my build information available to everyone.<br/>
+*Please refer to the SVG image on top of the file.*
 <br/>
 <br/>
 
