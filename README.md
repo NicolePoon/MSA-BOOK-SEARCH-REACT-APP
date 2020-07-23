@@ -6,6 +6,7 @@
 
 [https://msa-book-search.azurewebsites.net/](https://msa-book-search.azurewebsites.net/) 
 
+
 <br/>
 
 ## Description of build and release pipelines
@@ -16,18 +17,24 @@
 * I enable a continuous deployment to create releases on new commits to `develop` and `master` branches via `Build branch filters`.
 Please check the following screenshot.
 
-![pic](./image/build branch filters.JPG)
+![build branch filters](image/build_branch_filters.jpg)
+<br/>
+<br/>
 
 * I enable a continuous deployment to deploy my release to Azure for new commits to `master` branch via `Artifact filters`.
 Please check the following screenshot.
 
-(pic)
+![artifact filters](image/artifact_filters.jpg)
+<br/>
+<br/>
 
 * I also add a `build badge` on the Readme file to make my build information available to everyone.
 Please refer to the SVG image on top of the file.
+<br/>
+<br/>
 
 * A `build history graph` is added to the build Dashboard to keep track of the build history. (More widgets can be added to the canvas.)
 Please check the following screenshot.
 
-(pic)
+![build history](image/build_histroy_widget.jpg)
 
