@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/nicolepoonhkmsabooksearchapp/msa-devops-project-2020-book-app/_apis/build/status/NicolePoon.MSA-Book-Search-React-App?branchName=master)](https://dev.azure.com/nicolepoonhkmsabooksearchapp/msa-devops-project-2020-book-app/_build/latest?definitionId=2&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
