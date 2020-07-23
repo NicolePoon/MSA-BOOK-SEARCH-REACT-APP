@@ -19,7 +19,7 @@ const theme = createMuiTheme({
 
 function App() {
   const [UserInput, setUserInput] = useState<IUserInput>({
-    SearchQuery: "smile",
+    SearchQuery: "juice",
   });
   function SetUserInput(a: IUserInput) {
     setUserInput(a);    
